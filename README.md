@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/specsx-codebot?tab=repositories)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/cur10sDEV?tab=repositories)**
 
 - 📫 How to reach me **specsx-protonmail.com**
 
@@ -40,23 +40,23 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/specsx-codebot/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shreyansh Kourav's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=specsx-codebot&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/cur10sDEV/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shreyansh Kourav's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=cur10sDEV&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/specsx-codebot/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=specsx-codebot&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/specsx-codebot/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=specsx-codebot&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/cur10sDEV/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=cur10sDEV&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/cur10sDEV/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cur10sDEV&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
 <br/>
 
-<a href="https://github.com/specsx-codebot/github-readme-activity-graph"><img alt="Shreyansh Kourav's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=specsx-codebot&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/cur10sDEV/github-readme-activity-graph"><img alt="Shreyansh Kourav's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=cur10sDEV&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 
@@ -98,7 +98,7 @@ we are going to use m... </p> <br/> <br/> -->
 
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/shreyansh-kourav-b4068722b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/shreyansh-kourav-cur10sDEV/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/cur10sDEV"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
 <!-- <a href = "https://www.instagram.com/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
@@ -109,6 +109,6 @@ we are going to use m... </p> <br/> <br/> -->
 ## ❤ Views and Followers
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=specsx-codebot">
+    <img src="https://komarev.com/ghpvc/?username=cur10sDEV">
 </a>
-<a href="https://github.com/specsx-codebot?tab=followers"><img src="https://img.shields.io/github/followers/specsx-codebot?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/cur10sDEV?tab=followers"><img src="https://img.shields.io/github/followers/cur10sDEV?label=Followers&style=social" alt="GitHub Badge"></a>
