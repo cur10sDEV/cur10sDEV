@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on a **Weather App**
+- 🔭 I’m currently working on enhancing my skills.
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/cur10sDEV?tab=repositories)**
 
-- 📫 How to reach me **specsx-protonmail.com**
+- 📫 How to reach me **My twitter handle below**
 
 - ⚡ Fun fact **I Love Tech Memes**
 
