@@ -1,21 +1,50 @@
-<p align="center">
-<a href="https://github.com/cur10sDEV" style="color:#fc9867;">
-<h3 align="center" style="font-size:26px;'">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shreyansh</h3>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=fc9867&center=true&vCenter=true&width=600&height=70&repeat=false&lines=Shreyansh+Kourav" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=fc9867&center=true&vCenter=true&width=600&height=70&lines=Backend+Engineer;Distributed+Systems+Nerd;I+build+things+that+scale." alt="Typing SVG" />
+
+<p>
+  <em>I don't build toy projects. I architect systems.</em>
+</p>
+
+<a href="https://www.linkedin.com/in/shreyansh-kourav-b12757332/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<img style="width:100vw;height:44px;padding:0 1.25rem;text-align:center;" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=fc9867&lines=Full+Stack+Software+Engineer;Always+Learning+New+Things;Exploring+Topics+In+Depth" alt="Typing SVG" />
+<a href="mailto:kouravshreyansh4@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-<!-- Social icons section -->
-<p align="center">
-<a href="https://www.linkedin.com/in/shreyansh-kourav-b12757332/"><img src="https://img.icons8.com/fc9867/42/linkedin"/></a>
-</p>
+</div>
 
-</p>
+---
 
-<hr style="margin:2rem 0;"/>
+### `$ whoami`
 
-<h3 style="font-size:20px">🙋‍♂️ About Me</h3>
+```yaml
+name: Shreyansh Kourav
+role: Software Engineer — Backend Heavy, Full Stack Capable
+location: Indore, India
+focus: Distributed Systems · Backend Architecture · DevOps
+status: Open to opportunities
+```
 
-<hr style="margin:2rem 0;"/>
+> I care about **how** things are built, not just **that** they work.  
+> Clean code, proper abstractions, systems that don't fall apart at 3am.
+
+---
+
+### `$ ls ./what-i-actually-do`
+
+**Building production-grade distributed systems** — not just CRUD apps.  
+My projects mirror real enterprise architecture: microservices that communicate asynchronously, message queues handling failures gracefully, observability pipelines giving full system visibility.
+
+**End-to-end ownership** — from database schema to deployment pipeline.  
+In my short career, I have designed and shipped payments infrastructure (domestic + international), deployed main backend systems, and led development + testing for the whole platform.
+
+**Obsessing over the right abstractions** — I've published an npm package, implemented custom encoding schemes, and built analytics pipelines from scratch because the off-the-shelf solution wasn't the right fit.
+
+---
 
 <h3>👨‍💻 Programming and Markup Languages</h3>
 
@@ -81,24 +110,49 @@
 
 </p>
 
-<hr style="margin:2rem 0;"/>
+---
 
-<h3 style="font-size:20px">📊 Stats and Activity</h3>
+### `$ git log --oneline --graph`
 
-<h3>🔥 Streak Stats</h3>
+<div align="center">
 
-<p>
-<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Cur10sDEV's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=Cur10sDEV&theme=monokai-metallian&hide_border=false&short_numbers=true"/>
-</p>
-
-<h3>💻 GitHub Profile Stats</h3>
-
-<img alt="Cur10sDEV's Github Stats" src="https://DenverCoder1-github-readme-stats.vercel.app/api/?username=Cur10sDEV&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-
-<img alt="Cur10sDEV's Top Languages" src="https://DenverCoder1-github-readme-stats.vercel.app/api/top-langs/?username=Cur10sDEV&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Cur10sDEV&theme=dark&hide_border=true&background=0d1117&stroke=fc9867&ring=fc9867&fire=ff6b35&currStreakLabel=fc9867&sideLabels=9e9e9e&dates=9e9e9e&short_numbers=true" />
 
 <br/>
 
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<img src="https://DenverCoder1-github-readme-stats.vercel.app/api/?username=Cur10sDEV&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=fc9867&icon_color=fc9867&text_color=c9d1d9" height="180px"/>
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Cur10sDEV's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Cur10sDEV&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<br/>
+
+<img src="https://DenverCoder1-github-readme-stats.vercel.app/api/top-langs/?username=Cur10sDEV&langs_count=6&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=fc9867&icon_color=fc9867&text_color=c9d1d9&hide=Jupyter%20Notebook,Roff" height="180px"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph/?username=Cur10sDEV&bg_color=0d1117&color=fc9867&line=fc9867&point=ffffff&hide_border=true&area=true&area_color=fc986730" />
+
+</div>
+
+---
+
+### `$ echo $PHILOSOPHY`
+
+```
+"Write code for the engineer who maintains it at 2am —
+ that engineer is usually future-you."
+
+ Performance without observability is luck.
+ Architecture without tradeoffs is just theory.
+ Clean code without tests is a promise with no guarantee.
+```
+
+---
+
+<div align="center">
+
+**Let's build something real.**
+
+<a href="mailto:kouravshreyansh4@gmail.com">
+  <img src="https://img.shields.io/badge/Reach%20out-fc9867?style=for-the-badge&logoColor=white" />
+</a>
+
+</div>
