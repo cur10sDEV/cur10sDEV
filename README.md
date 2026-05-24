@@ -19,30 +19,11 @@
 
 ---
 
-### `$ whoami`
-
-```yaml
-name: Shreyansh Kourav
-role: Software Engineer — Backend Heavy, Full Stack Capable
-location: Indore, India
-focus: Distributed Systems · Backend Architecture · DevOps
-status: Open to opportunities
-```
-
-> I care about **how** things are built, not just **that** they work.  
-> Clean code, proper abstractions, systems that don't fall apart at 3am.
+![whoami](./assets/whoami.svg)
 
 ---
 
-### `$ ls ./what-i-actually-do`
-
-**Building production-grade distributed systems** — not just CRUD apps.  
-My projects mirror real enterprise architecture: microservices that communicate asynchronously, message queues handling failures gracefully, observability pipelines giving full system visibility.
-
-**End-to-end ownership** — from database schema to deployment pipeline.  
-In my short career, I have designed and shipped payments infrastructure (domestic + international), deployed main backend systems, and led development + testing for the whole platform.
-
-**Obsessing over the right abstractions** — I've published an npm package, implemented custom encoding schemes, and built analytics pipelines from scratch because the off-the-shelf solution wasn't the right fit.
+![what i actually do](./assets/what-i-do.svg)
 
 ---
 

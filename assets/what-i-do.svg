@@ -1,0 +1,67 @@
+<svg width="800" height="310" viewBox="0 0 800 310" xmlns="http://www.w3.org/2000/svg" role="img">
+  <title>What Shreyansh actually does</title>
+
+  <!-- Background -->
+  <rect width="800" height="310" rx="10" fill="#0d1117"/>
+
+  <!-- Top bar -->
+  <rect width="800" height="36" rx="10" fill="#161b22"/>
+  <rect y="26" width="800" height="10" fill="#161b22"/>
+  <circle cx="20" cy="18" r="6" fill="#ff5f57"/>
+  <circle cx="40" cy="18" r="6" fill="#febc2e"/>
+  <circle cx="60" cy="18" r="6" fill="#28c840"/>
+  <text x="400" y="22" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="12" fill="#6e7681">shreyansh@github ~ $ ls ./what-i-actually-do</text>
+
+  <!-- Card 1 -->
+  <rect x="24" y="52" width="235" height="220" rx="6" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+  <rect x="24" y="52" width="235" height="5" rx="3" fill="#fc9867"/>
+  <text x="44" y="86" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="13" font-weight="700" fill="#fc9867">distributed</text>
+  <text x="44" y="102" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="13" font-weight="700" fill="#fc9867">systems</text>
+  <!-- tag -->
+  <rect x="44" y="112" width="102" height="18" rx="3" fill="#fc986720"/>
+  <text x="50" y="124" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="10" fill="#fc9867">not just CRUD apps</text>
+
+  <text x="44" y="152" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="11" fill="#8b949e">Microservices that talk</text>
+  <text x="44" y="167" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="11" fill="#8b949e">asynchronously. Message</text>
+  <text x="44" y="182" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="11" fill="#8b949e">queues that handle</text>
+  <text x="44" y="197" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="11" fill="#8b949e">failures gracefully.</text>
+  <text x="44" y="212" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="11" fill="#8b949e">Observability built in,</text>
+  <text x="44" y="227" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="11" fill="#8b949e">not bolted on.</text>
+  <text x="44" y="253" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="10" fill="#3fb950">kafka · redis · otel</text>
+
+  <!-- Card 2 -->
+  <rect x="283" y="52" width="235" height="220" rx="6" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+  <rect x="283" y="52" width="235" height="5" rx="3" fill="#3fb950"/>
+  <text x="303" y="86" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="13" font-weight="700" fill="#3fb950">end-to-end</text>
+  <text x="303" y="102" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="13" font-weight="700" fill="#3fb950">ownership</text>
+  <rect x="303" y="112" width="144" height="18" rx="3" fill="#3fb95020"/>
+  <text x="309" y="124" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="10" fill="#3fb950">schema → deployment</text>
+
+  <text x="303" y="152" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="11" fill="#8b949e">Shipped payments infra</text>
+  <text x="303" y="167" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="11" fill="#8b949e">(IN + international),</text>
+  <text x="303" y="182" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="11" fill="#8b949e">deployed backend from</text>
+  <text x="303" y="197" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="11" fill="#8b949e">scratch, led testing.</text>
+  <text x="303" y="253" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="10" fill="#3fb950">aws · docker · ci/cd</text>
+
+  <!-- Card 3 -->
+  <rect x="542" y="52" width="235" height="220" rx="6" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+  <rect x="542" y="52" width="235" height="5" rx="3" fill="#58a6ff"/>
+  <text x="562" y="86" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="13" font-weight="700" fill="#58a6ff">right</text>
+  <text x="562" y="102" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="13" font-weight="700" fill="#58a6ff">abstractions</text>
+  <rect x="562" y="112" width="158" height="18" rx="3" fill="#58a6ff20"/>
+  <text x="568" y="124" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="10" fill="#58a6ff">custom &gt; off-the-shelf</text>
+
+  <text x="562" y="152" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="11" fill="#8b949e">Published npm package.</text>
+  <text x="562" y="167" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="11" fill="#8b949e">Custom base62 scheme.</text>
+  <text x="562" y="182" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="11" fill="#8b949e">Analytics pipeline built</text>
+  <text x="562" y="197" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="11" fill="#8b949e">from scratch — because</text>
+  <text x="562" y="212" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="11" fill="#8b949e">existing tools didn't</text>
+  <text x="562" y="227" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="11" fill="#8b949e">fit the problem.</text>
+  <text x="562" y="253" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="10" fill="#58a6ff">elasticearch · vector-db</text>
+
+  <!-- Bottom prompt line -->
+  <text x="44" y="292" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="12" fill="#6e7681">3 items found</text>
+  <rect x="150" y="279" width="9" height="16" rx="1" fill="#fc9867" opacity="0.8">
+    <animate attributeName="opacity" values="0.8;0;0.8" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+</svg>
